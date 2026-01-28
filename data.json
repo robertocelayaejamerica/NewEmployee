@@ -2,13 +2,13 @@
   "title": "MOST TICKETS CLOSED IN THE MONTH",
   "employee1": {
     "name": "Alejandro 'Forever 21' Haro",
-    "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/EmployeeAward/main/images/employee1.jpg",
+    "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/NewEmployee/main/images/employee1.jpg",
     "value": 142,
     "label": "INCIDENTS"
   },
   "employee2": {
     "name": "Derek 'HP' Landry",
-    "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/EmployeeAward/main/images/employee2.jpg",
+    "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/NewEmployee/main/images/employee2.jpg",
     "value": 11,
     "label": "REQUESTS"
   }
