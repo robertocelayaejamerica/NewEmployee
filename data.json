@@ -3,13 +3,13 @@
   "employee1": {
     "name": "Leslie Abarca",
     "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/NewEmployee/main/images/employee1.jpg",
-    "value": 142,
+    "value": "Remote Service Desk Specialist",
     "label": "INCIDENTS"
   },
   "employee2": {
     "name": "Brandon Leor",
     "photo": "https://raw.githubusercontent.com/robertocelayaejamerica/NewEmployee/main/images/employee2.jpg",
-    "value": 12,
+    "value": "Remote Service Desk Specialist",
     "label": "REQUESTS"
   }
 }
